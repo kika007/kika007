@@ -6,7 +6,7 @@ I'm an engineering graduate trying to find my way around **data science and mach
 
 ### What I'm Exploring
 * **Data Science & Machine Learning:** Navigating through ML concepts, building pipelines in Python, and experimenting with generative models.
-* **Audio & Signal Processing:** Single-cycle wavetable extraction, spectral analysis, and custom data workflows.
+* **Audio & Signal Processing:** Spectral analysis, and custom data workflows.
 * **Tech Stack:** Python, PyTorch, Pandas, Scipy, Scikit-learn, and VS Code.
 * **Creative Side:** Music production, acoustic physics, and playing around with sound design.
 
