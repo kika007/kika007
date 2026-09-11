@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there 👋 I'm Kristína
 
 I'm an engineering graduate trying to find my way around **data science and machine learning**, while always loving to try out new things. My background is rooted in audio engineering and signal processing, and I enjoy exploring where sound meets intelligent systems.
